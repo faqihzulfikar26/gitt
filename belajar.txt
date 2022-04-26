@@ -2,3 +2,4 @@ resolusi
 -aaaabbb
 -bbbbbbb
 -ccccccc
+d
