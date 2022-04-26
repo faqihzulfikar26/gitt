@@ -1,0 +1,4 @@
+resolusi
+-aaaabbb
+-bbbbbbb
+-ccccccc
